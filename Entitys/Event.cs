@@ -18,7 +18,7 @@ namespace ConsoleApp1.Entitys
 
         public int MaxAttendees { get; set; }
 
-        public int OrganizerId { get; set; }//FK
+        
     
     
     }
